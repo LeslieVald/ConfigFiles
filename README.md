@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeslieVald
-- 👀 I’m interested in data analysis in order to find the stories behind the numbers.
-- 🌱 I’m currently exploring the nuances of investigating datasets.
-- 💞️ I’m looking to collaborate on projects to further refine my data analysis skills. 
+- 👀 I’m interested in data analysis in order to find the meaning behind the numbers.
+- 🌱 I’ve recently been exploring the nuances of investigating datasets.
 - ⚡ Fun fact: I'm hoping to become a published author this year. 
 
 <!---
